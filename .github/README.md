@@ -1,1 +1,1 @@
-../security-txt/README.md
+Wallet personal principal: FADYvdEmwSwHj5q../security-txt/README.md
